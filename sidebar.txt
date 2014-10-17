@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[thu:home|Door43 (thu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-thu|d43-thu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-thu/archive/master.zip|d43-thu.zip]]
+
+**Recent Changes**
+{{changes>ns = thu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/thu|Ethnologue data]]
+
